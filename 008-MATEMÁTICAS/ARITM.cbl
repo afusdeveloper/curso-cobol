@@ -1,5 +1,6 @@
        IDENTIFICATION DIVISION.                                   
-       PROGRAM-ID.                     ARITM.                     
+       PROGRAM-ID.                     ARITM. 
+       AUTHOR.                         AYMARA M FUSARO.                    
        ENVIRONMENT DIVISION.                                      
        DATA DIVISION.                                             
        WORKING-STORAGE SECTION.                                   

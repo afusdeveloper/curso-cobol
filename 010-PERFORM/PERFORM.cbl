@@ -1,5 +1,6 @@
        IDENTIFICATION DIVISION.                                      
-       PROGRAM-ID.                     'PERFORM'.                    
+       PROGRAM-ID.                     'PERFORM'.   
+       AUTHOR.                         AYMARA M FUSARO.                 
        ENVIRONMENT DIVISION.                                         
        DATA DIVISION.                                                
        WORKING-STORAGE SECTION.                                      

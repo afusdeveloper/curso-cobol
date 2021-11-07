@@ -1,5 +1,6 @@
        IDENTIFICATION DIVISION.                                  
-       PROGRAM-ID.                     CONVE.                    
+       PROGRAM-ID.                     CONVE.
+       AUTHOR.                         AYMARA M FUSARO.                    
        ENVIRONMENT DIVISION.                                     
        DATA DIVISION.                                            
                                                                  
